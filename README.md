@@ -220,8 +220,3 @@ EchoMind/
   docker-compose.yml              # 服务编排
   requirements.txt                # Python 依赖
 
----
-
-## 许可证
-
-MIT
